@@ -9,3 +9,7 @@
 ### Quantization
 1. Up or Down? Adaptive Rounding for Post-Training Quantization: [https://arxiv.org/pdf/2004.10568.pdf](https://arxiv.org/pdf/2004.10568.pdf)
 2. LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale: [https://arxiv.org/pdf/2208.07339.pdf](https://arxiv.org/pdf/2208.07339.pdf)
+
+### Training
+1. Training Compute-Optimal Large Language Models: [https://arxiv.org/pdf/2203.15556.pdf](https://arxiv.org/pdf/2203.15556.pdf)
+2. Decentralized Training of Foundation Models in Heterogeneous Environments: [https://arxiv.org/pdf/2206.01288.pdf](https://arxiv.org/pdf/2206.01288.pdf)
