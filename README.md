@@ -17,3 +17,6 @@
 
 ### Scaling
 1. Sparse is Enough in Scaling Transformers: [https://proceedings.neurips.cc/paper/2021/file/51f15efdd170e6043fa02a74882f0470-Paper.pdf](https://proceedings.neurips.cc/paper/2021/file/51f15efdd170e6043fa02a74882f0470-Paper.pdf)
+
+### Compilation
+1. RAF: Holistic Compilation for Deep Learning Model Training: [https://arxiv.org/pdf/2303.04759v1.pdf](https://arxiv.org/pdf/2303.04759v1.pdf)
