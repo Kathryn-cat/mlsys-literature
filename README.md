@@ -5,6 +5,7 @@
 ### Inference
 1. Full Stack Optimization of Transformer Inference: a Survey: [https://arxiv.org/pdf/2302.14017.pdf](https://arxiv.org/pdf/2302.14017.pdf)
 2. Large Transformer Model Inference Optimization: [https://lilianweng.github.io/posts/2023-01-10-inference-optimization/](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
+3. High-throughput Generative Inference of Large Language Models with a Single GPU: [https://arxiv.org/pdf/2303.06865.pdf](https://arxiv.org/pdf/2303.06865.pdf)
 
 ### Quantization
 1. Up or Down? Adaptive Rounding for Post-Training Quantization: [https://arxiv.org/pdf/2004.10568.pdf](https://arxiv.org/pdf/2004.10568.pdf)
@@ -13,3 +14,6 @@
 ### Training
 1. Training Compute-Optimal Large Language Models: [https://arxiv.org/pdf/2203.15556.pdf](https://arxiv.org/pdf/2203.15556.pdf)
 2. Decentralized Training of Foundation Models in Heterogeneous Environments: [https://arxiv.org/pdf/2206.01288.pdf](https://arxiv.org/pdf/2206.01288.pdf)
+
+### Scaling
+1. Sparse is Enough in Scaling Transformers: [https://proceedings.neurips.cc/paper/2021/file/51f15efdd170e6043fa02a74882f0470-Paper.pdf](https://proceedings.neurips.cc/paper/2021/file/51f15efdd170e6043fa02a74882f0470-Paper.pdf)
