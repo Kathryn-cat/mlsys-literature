@@ -9,8 +9,9 @@
 
 ### Quantization
 1. Up or Down? Adaptive Rounding for Post-Training Quantization: [https://arxiv.org/pdf/2004.10568.pdf](https://arxiv.org/pdf/2004.10568.pdf)
-2. LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale: [https://arxiv.org/pdf/2208.07339.pdf](https://arxiv.org/pdf/2208.07339.pdf)
-3. ULPPACK: FAST SUB-8-BIT MATRIX MULTIPLY ON COMMODITY SIMD HARDWARE: [https://proceedings.mlsys.org/paper/2022/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf](https://proceedings.mlsys.org/paper/2022/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
+2. 8-bit Optimizers via Block-wise Quantization: [https://arxiv.org/pdf/2110.02861.pdf](https://arxiv.org/pdf/2110.02861.pdf)
+3. LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale: [https://arxiv.org/pdf/2208.07339.pdf](https://arxiv.org/pdf/2208.07339.pdf)
+4. ULPPACK: FAST SUB-8-BIT MATRIX MULTIPLY ON COMMODITY SIMD HARDWARE: [https://proceedings.mlsys.org/paper/2022/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf](https://proceedings.mlsys.org/paper/2022/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
 
 ### Training
 1. Training Compute-Optimal Large Language Models: [https://arxiv.org/pdf/2203.15556.pdf](https://arxiv.org/pdf/2203.15556.pdf)
