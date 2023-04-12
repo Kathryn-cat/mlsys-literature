@@ -26,3 +26,6 @@
 1. RAF: Holistic Compilation for Deep Learning Model Training: [https://arxiv.org/pdf/2303.04759v1.pdf](https://arxiv.org/pdf/2303.04759v1.pdf)
 2. Graphene: An IR for Optimized Tensor Computations on GPUs: [https://dl.acm.org/doi/pdf/10.1145/3582016.3582018](https://dl.acm.org/doi/pdf/10.1145/3582016.3582018)
 3. Hidet: Task-Mapping Programming Paradigm for Deep Learning Tensor Programs: [https://arxiv.org/pdf/2210.09603.pdf](https://arxiv.org/pdf/2210.09603.pdf)
+
+### Fine-Tuning
+1. LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS: [https://arxiv.org/pdf/2106.09685.pdf](https://arxiv.org/pdf/2106.09685.pdf)
