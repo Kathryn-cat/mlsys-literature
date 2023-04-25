@@ -6,6 +6,7 @@
 1. Full Stack Optimization of Transformer Inference: a Survey: [https://arxiv.org/pdf/2302.14017.pdf](https://arxiv.org/pdf/2302.14017.pdf)
 2. Large Transformer Model Inference Optimization: [https://lilianweng.github.io/posts/2023-01-10-inference-optimization/](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
 3. High-throughput Generative Inference of Large Language Models with a Single GPU: [https://arxiv.org/pdf/2303.06865.pdf](https://arxiv.org/pdf/2303.06865.pdf)
+4. Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations: [https://arxiv.org/pdf/2304.11267.pdf](https://arxiv.org/pdf/2304.11267.pdf)
 
 ### Quantization
 1. Up or Down? Adaptive Rounding for Post-Training Quantization: [https://arxiv.org/pdf/2004.10568.pdf](https://arxiv.org/pdf/2004.10568.pdf)
