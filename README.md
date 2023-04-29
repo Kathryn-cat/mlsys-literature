@@ -20,6 +20,7 @@
 1. Training Compute-Optimal Large Language Models: [https://arxiv.org/pdf/2203.15556.pdf](https://arxiv.org/pdf/2203.15556.pdf)
 2. Decentralized Training of Foundation Models in Heterogeneous Environments: [https://arxiv.org/pdf/2206.01288.pdf](https://arxiv.org/pdf/2206.01288.pdf)
 3. ZeRO: Memory Optimizations Toward Training Trillion Parameter Models: [https://arxiv.org/pdf/1910.02054.pdf](https://arxiv.org/pdf/1910.02054.pdf)
+4. Stable and low-precision training for large-scale vision-language models: [https://arxiv.org/pdf/2304.13013.pdf](https://arxiv.org/pdf/2304.13013.pdf)
 
 ### Scaling
 1. Sparse is Enough in Scaling Transformers: [https://proceedings.neurips.cc/paper/2021/file/51f15efdd170e6043fa02a74882f0470-Paper.pdf](https://proceedings.neurips.cc/paper/2021/file/51f15efdd170e6043fa02a74882f0470-Paper.pdf)
