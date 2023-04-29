@@ -31,3 +31,6 @@
 
 ### Fine-Tuning
 1. LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS: [https://arxiv.org/pdf/2106.09685.pdf](https://arxiv.org/pdf/2106.09685.pdf)
+
+### Sparsity:
+1. JAXPRUNER: A CONCISE LIBRARY FOR SPARSITY RESEARCH: [https://arxiv.org/pdf/2304.14082.pdf](https://arxiv.org/pdf/2304.14082.pdf)
